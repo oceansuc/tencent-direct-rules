@@ -57,3 +57,27 @@ dns.wechat.com
 sgshort.wechat.com
 sglong.wechat.com
 sgquic.wechat.com
+# 腾讯短网址与基础链接
+url.cn
+w.url.cn
+ten.cn
+
+# 微信相关补充 (网页授权、文件上传、短网址)
+wechat.com
+wechatpay.cn
+wechatpay.com
+weixinbridge.com
+weixinsxy.com
+wepay.com
+
+# 腾讯云与开发者服务
+qcloud.com
+tencentcs.com
+cloud.tencent.com
+tencentyun.com
+
+# 游戏与多媒体/音视频 (QQ音乐、腾讯视频、文档)
+qqmusic.qq.com
+v.qq.com
+docs.qq.com
+work.weixin.qq.com
